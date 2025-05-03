@@ -5,13 +5,6 @@
 🌱 Estou atualmente aprendendo:
 HTML5, CSS, Boostrap, Typescript, UI/UX, React e JavaScript para desenvolvimento front-end.
 
-📫 Como me encontrar:
-LinkedIn: https://www.linkedin.com/in/kaique-araujo-fernandes-604b551b7/
-
-Instagram: https://www.instagram.com/kaicolakk/
-
-Email: kaiquearaujofernandes@gmail.com
-
 😄 Pronomes:
 Ele/Dele
 
