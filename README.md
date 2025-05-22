@@ -1,4 +1,4 @@
-## Olá, sou o Kaique Araujo Fernandes, é um prazer! 👋
+## Olá, sou o Kaique, é um prazer! 👋
 
 🚀 Estagiário em Análise de Negócios TI | Estudante de Programação | Focado em Desenvolvimento Frontend & Backend.
 
